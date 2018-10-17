@@ -1,0 +1,1 @@
+This project shows how to validate a form, using pure JavaScript, without using the HTML 5 features for form validation. Regular expressions were used to validate the form.
